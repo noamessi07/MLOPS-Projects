@@ -1,5 +1,5 @@
 data_ingestion:
-  bucket_name: "koa-bucket"
+  bucket_name: "mlops_hotel-reservation"
   bucket_file_name: "Hotel_Reservations.csv"
   train_ratio: 0.8
 
